@@ -1,0 +1,11 @@
+{
+	"catalog": {
+		"item": [
+			{
+				"name": true,
+				"currency": true,
+				"in_stock": true
+			}
+		]
+	}
+}

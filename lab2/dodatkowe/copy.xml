@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog><item><name>Laptop</name><currency>USD</currency><in_stock>true</in_stock></item><item><name>Mouse</name><currency>USD</currency><in_stock>false</in_stock></item><item><name>Keyboard</name><currency>USD</currency><in_stock>true</in_stock></item></catalog>
